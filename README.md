@@ -1,11 +1,8 @@
 ## ¡Hola! Soy Carlos 👋 
 
-Estudiante de 2do año de **Ingeniería en Software**. Me apasiona construir soluciones eficientes y aprender nuevas tecnologías cada día.
-
 ---
 
 ### 🚀 Sobre mí
-- 🎓 Actualmente cursando la carrera de Ingeniería en Software.
 - 💡 Enfocado en el desarrollo backend y automatización con Python.
 - 🌱 Aprendiendo activamente sobre bases de datos y diseño web.
 
